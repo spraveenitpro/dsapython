@@ -1,0 +1,12 @@
+Lesson 1: Using files in Python
+Hit the play button on the video next to this Jupyter notebook to start the video and follow along as Andrew explains how to work through this lesson.
+
+So far, if you have taken the previous courses in this sequence,
+
+You have worked with data that is created and assigned to variables within Jupyter notebooks.
+You have created multi-line strings.
+You have created lists and dictionaries.
+You have automated tasks using for loops and if statements.
+In this lesson, you will read files using Python!
+
+Let's start by loading some functions you'll use in this notebook
